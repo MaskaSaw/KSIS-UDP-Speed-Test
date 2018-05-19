@@ -1,0 +1,34 @@
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\bin\Debug\UdpSender.exe.config
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\bin\Debug\UdpSender.exe
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\bin\Debug\UdpSender.pdb
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\obj\Debug\UdpSender.csprojResolveAssemblyReference.cache
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\obj\Debug\MainWindow.g.cs
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\obj\Debug\App.g.cs
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\obj\Debug\UdpSender_MarkupCompile.cache
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\obj\Debug\UdpSender_MarkupCompile.lref
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\obj\Debug\MainWindow.baml
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\obj\Debug\UdpSender.g.resources
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\obj\Debug\UdpSender.Properties.Resources.resources
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\obj\Debug\UdpSender.csproj.GenerateResource.cache
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\obj\Debug\UdpSender.csproj.CoreCompileInputs.cache
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\obj\Debug\UdpSender.exe
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\obj\Debug\UdpSender.pdb
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\bin\Debug\Common.dll
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\bin\Debug\Common.pdb
+D:\Education\БГУИР КСиС\Git\UdpConnection\UdpSender\obj\Debug\UdpSender.csproj.CopyComplete
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\UdpSender\bin\Debug\UdpSender.exe.config
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\UdpSender\obj\Debug\UdpSender.exe
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\UdpSender\obj\Debug\UdpSender.pdb
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\UdpSender\bin\Debug\UdpSender.exe
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\UdpSender\bin\Debug\UdpSender.pdb
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\UdpSender\bin\Debug\Common.dll
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\UdpSender\bin\Debug\Common.pdb
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\UdpSender\obj\Debug\UdpSender.csprojResolveAssemblyReference.cache
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\UdpSender\obj\Debug\MainWindow.g.cs
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\UdpSender\obj\Debug\App.g.cs
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\UdpSender\obj\Debug\UdpSender_MarkupCompile.cache
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\UdpSender\obj\Debug\UdpSender_MarkupCompile.lref
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\UdpSender\obj\Debug\MainWindow.baml
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\UdpSender\obj\Debug\UdpSender.g.resources
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\UdpSender\obj\Debug\UdpSender.Properties.Resources.resources
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\UdpSender\obj\Debug\UdpSender.csproj.GenerateResource.Cache

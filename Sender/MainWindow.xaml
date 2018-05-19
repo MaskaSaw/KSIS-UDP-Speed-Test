@@ -1,0 +1,80 @@
+﻿<Window x:Class="Sender.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UdpSender"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="400"
+        Width="640"
+        FontFamily="Impact"
+        FontSize="24">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="IPBox"
+                   Text="Id:" 
+                   Grid.Row="0"
+                   VerticalAlignment="Center"
+                   Width="35"
+                   Margin="0,20,270,20"/>
+
+        <TextBox x:Name="txtboxIP"
+                 Grid.Row="0"
+                 Text="192.168."
+                 TextAlignment="Center"
+                 HorizontalAlignment="Center"
+                 VerticalAlignment="Center"
+                 Width="240"
+                 Foreground="LightGreen"
+                 Padding="5"
+                 Margin="20"/>
+
+        <TextBlock x:Name="PortBox"
+                   Text="Порт:" 
+                   Grid.Row="1"
+                   VerticalAlignment="Center"
+                   Width="65"
+                   Margin="0,20,300,20"/>
+        <TextBlock x:Name="CountBox"
+                   Text="Пакетов:"
+                   Grid.Row="2"
+                   VerticalAlignment="Center"
+                   Width="100"
+                   Margin="0,20,340,20"/>
+        <TextBox x:Name="txtboxPort"
+                 Grid.Row="1"
+                 Text="11000"
+                 HorizontalAlignment="Center"
+                 VerticalAlignment="Center"
+                 Width="240"
+                 Padding="5"
+                 Margin="20"/>
+
+        <TextBox x:Name="txtboxCount"
+                 Grid.Row="2"
+                 Text=""
+                 HorizontalAlignment="Center"
+                 VerticalAlignment="Center"
+                 Width="240"
+                 Padding="5"
+                 Margin="20"/>
+
+
+        <Button x:Name="send"
+                Grid.Row="3"
+                Content="Отправить пакеты"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Padding="20, 5"
+                Margin="20"
+                Click="send_Click"/>
+
+    </Grid>
+</Window>
