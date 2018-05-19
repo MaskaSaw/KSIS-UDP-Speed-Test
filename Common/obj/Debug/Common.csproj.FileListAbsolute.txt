@@ -1,0 +1,16 @@
+D:\Education\БГУИР КСиС\Git\UdpConnection\Common\bin\Debug\Common.dll
+D:\Education\БГУИР КСиС\Git\UdpConnection\Common\bin\Debug\Common.pdb
+D:\Education\БГУИР КСиС\Git\UdpConnection\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Education\БГУИР КСиС\Git\UdpConnection\Common\obj\Debug\Common.dll
+D:\Education\БГУИР КСиС\Git\UdpConnection\Common\obj\Debug\Common.pdb
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\КСИС\UDP-клиент\UdpConnection-master\Common\bin\Debug\Common.dll
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\КСИС\UDP-клиент\UdpConnection-master\Common\bin\Debug\Common.pdb
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\КСИС\UDP-клиент\UdpConnection-master\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\КСИС\UDP-клиент\UdpConnection-master\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\КСИС\UDP-клиент\UdpConnection-master\Common\obj\Debug\Common.dll
+D:\Различная учебная хренотень\Второй Курс\Второй семестр\КСИС\UDP-клиент\UdpConnection-master\Common\obj\Debug\Common.pdb
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\Common\bin\Debug\Common.dll
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\Common\bin\Debug\Common.pdb
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\Common\obj\Debug\Common.dll
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\Common\obj\Debug\Common.pdb
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\UDP Speed-Test\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
